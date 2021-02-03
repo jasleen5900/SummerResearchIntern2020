@@ -1,0 +1,3 @@
+JN3: Bern Bercalona Resampling
+JN2: Huaz Khas Resampling
+JN1: Printed first 10 columns
